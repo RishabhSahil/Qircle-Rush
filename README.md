@@ -1,18 +1,10 @@
 # Qircle Rush
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
 Qircle Rush is a simple endless hypercasual arcade game made with pygame.
 
 <p align='center'>
-	<img src='app.png' width=200 height=300>
+	<img src='./app.png' width=200 height=300>
 </p>
-
-## How to Download
-
-Download this project from here [Download Qircle Rush](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Qircle%20Rush)
 
 ## Requirements
 
@@ -36,3 +28,8 @@ Controls:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+
+# Developer-Name:- [R.S](https://www.instagram.com/_rishabh.sahil_/) ([RISHABH-SAHIL](https://www.instagram.com/_rishabh.sahil_/))
+- GitHub:- [@RishabhSahil](https://github.com/RishabhSahil/whatsapp-bot-type-script)
+- Linkden:- [rishabhsahil](https://www.linkedin.com/in/rishabhsahil/)
