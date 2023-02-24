@@ -2,10 +2,6 @@
 
 Qircle Rush is a simple endless hypercasual arcade game made with pygame.
 
-<p align='center'>
-	<img src='./app.png' width=200 height=300>
-</p>
-
 ## Requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
